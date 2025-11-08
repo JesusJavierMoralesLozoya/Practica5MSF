@@ -4,7 +4,7 @@
 
 ## Información del estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Jesus Javier Morales Lozoya [20210806]; jesus.moralesl201@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -42,7 +42,7 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Modelado matematico; ?; ?; Simulaciones numericas; Regeneracion de globulos rojos.
 
 ## Lista de archivos incluidos en el repositorio
 
