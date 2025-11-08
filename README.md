@@ -36,13 +36,13 @@ El sistema se resolvió con los siguientes parámetros de gamma y beta:
 2. beta = [1.650, 0.867, 1.617, 2.615, 1.518, 2.676, 0.891, 2.557, 0.925, 0.089];
 
 y con las siguientes condiciones iniciales:
-1. x1(0) = COLOCAR SUS CONDICIONES INICIALES;
-2. x2(0) = COLOCAR SUS CONDICIONES INICIALES;
-3. x3(0) = COLOCAR SUS CONDICIONES INICIALES;
+1. x1(0) = 59.2165, 59.5729, 59.5227, 58.4312, 59.5699, 58.5847, 58.6300, 59.3101, 58.6813, 59.2302 ;
+2. x2(0) = 44.1614, 44.4272, 44.3898, 43.5758, 44.4250, 43.6903, 43.7241, 44.2313, 43.7623, 44.1716 ;
+3. x3(0) = 888.2468, 893.5929, 892.8401, 876.4675, 893.5481, 878.7707, 879.4499, 889.6514, 880.2198, 888.4523;
 
 
 
-Palabras clave: Modelado matematico; ?; ?; Simulaciones numericas; Regeneracion de globulos rojos.
+Palabras clave: Modelado matematico; Circuito electricos; Parametros Gamma y Beta; Simulaciones numericas; Regeneracion de globulos rojos.
 
 ## Lista de archivos incluidos en el repositorio
 
